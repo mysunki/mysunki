@@ -1,4 +1,4 @@
-# Embedded Firmware Developer / mysunki
+# 이선기 / Embedded Firmware Developer / mysunki
 
 ![Firmware Engineering - STM32, Embedded C, Circuit Board](assets/firmware-banner.svg)
 
