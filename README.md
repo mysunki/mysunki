@@ -2,7 +2,7 @@
 
 ![Firmware Engineering - STM32, Embedded C, Circuit Board](assets/firmware-banner.svg)
 
-STM32 기반 의료기기 펌웨어를 개발하는 임베디드 소프트웨어 개발자입니다.  
+STM32 기반 펌웨어를 개발하는 임베디드 소프트웨어 개발자입니다.  
 제품 개발 초기 단계부터 양산 전환까지 참여하며 MCU 제어, 보드 간 통신, 신호 계측, 문제 분석 및 검증 업무를 수행했습니다.
 
 - Portfolio: [mysunki.github.io](https://mysunki.github.io/)
